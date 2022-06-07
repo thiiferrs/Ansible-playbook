@@ -1,0 +1,6 @@
+---
+
+- name: Ansible structure
+  hosts: localhost
+  roles:
+  - role_name
